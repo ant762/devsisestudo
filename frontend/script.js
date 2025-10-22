@@ -52,4 +52,4 @@ function excluirProduto(id) {
         carregarProdutos();
     })
     .catch(error => console.error('Erro ao excluir produto:', error));
-}
+} // iof
